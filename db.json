@@ -1,13 +1,13 @@
 {
    "subjects":[
       {
-         "Id":1,
+         "id":1,
          "title":"Math",
          "nbQuestions":10,
          "time":3600
       },
       {
-         "Id":2,
+         "id":2,
          "title":"Politics",
          "nbQuestions":10,
          "time":3600
@@ -24,6 +24,42 @@
             "2",
             "3.1457",
             "None"
+         ]
+      },
+      {
+         "subjectId":1,
+         "id":2,
+         "title":"What is the capital of India?",
+         "answerSelectionType":"single",
+         "options":[
+            "Delhi",
+            "Bengaluru",
+            "Mumbai",
+            "Hyderabad"
+         ]
+      },
+      {
+         "subjectId":1,
+         "id":3,
+         "title":"Who is the president of India?",
+         "answerSelectionType":"single",
+         "options":[
+            "Ram nath Kovind",
+            "Pratibha Patil",
+            "Pranab Mukherjee",
+            "None"
+         ]
+      },
+      {
+         "subjectId":1,
+         "id":4,
+         "title":"What is the captain of Indian Cricket team",
+         "answerSelectionType":"single",
+         "options":[
+            "MS Dhoni",
+            "Rohith Sharma",
+            "Ravindra Jadeja",
+            "Virat Kohli"
          ]
       }
    ]
