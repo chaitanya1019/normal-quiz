@@ -116,25 +116,25 @@
          "id":1,
          "subjectId":1,
          "questionId":1,
-         "answer":2
+         "answer":"2"
       },
       {
          "id":2,
          "subjectId":1,
          "questionId":2,
-         "answer":0
+         "answer":"0"
       },
       {
          "id":3,
          "subjectId":1,
          "questionId":3,
-         "answer":0
+         "answer":"0"
       },
       {
          "id":4,
          "subjectId":1,
          "questionId":4,
-         "answer":3
+         "answer":"3"
       },
       {
          "id":5,
