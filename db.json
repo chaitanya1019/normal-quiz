@@ -1,4 +1,116 @@
 {
+   "subjects":[
+      {
+         "Id":1,
+         "title":"GK Set 1",
+         "nbQuestions":4,
+         "time":300
+      },
+      {
+         "Id":2,
+         "title":"GK Set 2",
+         "nbQuestions":4,
+         "time":300
+      }
+   ],
+   "questions":[
+      {
+         "subjectId":1,
+         "id":1,
+         "title":"What is the value of pi?",
+         "answerSelectionType":"single",
+         "options":[
+            "1",
+            "2",
+            "3.1457",
+            "None"
+         ]
+      },
+      {
+         "subjectId":1,
+         "id":2,
+         "title":"What is the capital of India?",
+         "answerSelectionType":"single",
+         "options":[
+            "Delhi",
+            "Bengaluru",
+            "Mumbai",
+            "Hyderabad"
+         ]
+      },
+      {
+         "subjectId":1,
+         "id":3,
+         "title":"Who is the president of India?",
+         "answerSelectionType":"single",
+         "options":[
+            "Ram nath Kovind",
+            "Pratibha Patil",
+            "Pranab Mukherjee",
+            "None"
+         ]
+      },
+      {
+         "subjectId":1,
+         "id":4,
+         "title":"What is the captain of Indian Cricket team",
+         "answerSelectionType":"single",
+         "options":[
+            "MS Dhoni",
+            "Rohith Sharma",
+            "Ravindra Jadeja",
+            "Virat Kohli"
+         ]
+      },
+      {
+         "subjectId":2,
+         "id":1,
+         "title":"What is the value of pi?",
+         "answerSelectionType":"single",
+         "options":[
+            "1",
+            "2",
+            "3.1457",
+            "None"
+         ]
+      },
+      {
+         "subjectId":2,
+         "id":2,
+         "title":"which among is not the capital of India?",
+         "answerSelectionType":"multiple",
+         "options":[
+            "Delhi",
+            "Bengaluru",
+            "Mumbai",
+            "Hyderabad"
+         ]
+      },
+      {
+         "subjectId":2,
+         "id":3,
+         "title":"Choose all the presidents of India till present?",
+         "answerSelectionType":"multiple",
+         "options":[
+            "Ram nath Kovind",
+            "Pratibha Patil",
+            "Pranab Mukherjee",
+            "None"
+         ]
+      },
+      {
+         "subjectId":2,
+         "id":4,
+         "title":"What is the captain of Indian Cricket team",
+         "answerSelectionType":"single",
+         "options":[
+            "MS Dhoni",
+            "Rohith Sharma",
+            "Ravindra Jadeja",
+            "Virat Kohli"
+         ]
+      }
+   ],
    "answers":[
       {
          "id":1,
