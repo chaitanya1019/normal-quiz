@@ -64,7 +64,7 @@
       },
       {
          "subjectId":2,
-         "id":1,
+         "id":5,
          "title":"What is the value of pi?",
          "answerSelectionType":"single",
          "options":[
@@ -76,7 +76,7 @@
       },
       {
          "subjectId":2,
-         "id":2,
+         "id":6,
          "title":"which among is not the capital of India?",
          "answerSelectionType":"multiple",
          "options":[
@@ -88,7 +88,7 @@
       },
       {
          "subjectId":2,
-         "id":3,
+         "id":7,
          "title":"Choose all the presidents of India till present?",
          "answerSelectionType":"multiple",
          "options":[
@@ -100,7 +100,7 @@
       },
       {
          "subjectId":2,
-         "id":4,
+         "id":8,
          "title":"What is the captain of Indian Cricket team",
          "answerSelectionType":"single",
          "options":[
@@ -135,6 +135,30 @@
          "subjectId":1,
          "questionId":4,
          "answer":3
+      },
+      {
+         "id":5,
+         "subjectId":2,
+         "questionId":5,
+         "answer":"0"
+      },
+      {
+         "id":6,
+         "subjectId":2,
+         "questionId":6,
+         "answer":"1,2,3"
+      },
+      {
+         "id":7,
+         "subjectId":2,
+         "questionId":7,
+         "answer":"0,1,2"
+      },
+      {
+         "id":8,
+         "subjectId":2,
+         "questionId":8,
+         "answer":"3"
       }
    ]
 }
